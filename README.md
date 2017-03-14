@@ -12,7 +12,7 @@
 ## classe mere persos
  ** stats generales
  * classe fille stats persos
- ** coordonnees
+    * coordonnees
 
 ## classe partie
  * types de jeux (difficulte / nb joueurs et IA...)
