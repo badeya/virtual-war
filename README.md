@@ -10,7 +10,7 @@
  * actions
 
 ## classe mere persos
- ** stats generales
+   * stats generales
  * classe fille stats persos
     * coordonnees
 
