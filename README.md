@@ -1,24 +1,25 @@
 # virtual-war
 
 ## plateau
-** cellules
-** obstacles
+ * cellules  
+ * obstacles  
 
 ## classe joueurs
-  -J1
-  -IA ?
-  -actions
+ * J1
+ * IA ?
+ * actions
 
 ## classe mere persos
-	-stats generales
-  -classe fille stats persos
-	-coordonnees
+ ** stats generales
+ * classe fille stats persos
+ ** coordonnees
 
 ## classe partie
-  -types de jeux (difficulte / nb joueurs et IA...)
-  -scores
-  -tour en cours
-  -saisie
+ * types de jeux (difficulte / nb joueurs et IA...)
+ * scores
+ * tour en cours
+ * saisie
 
-## menu
+## menu  
+ * [Any]
 
